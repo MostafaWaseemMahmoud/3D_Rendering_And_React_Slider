@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite + Slider.js + Ionicons + ThreeJs 3D Rendering
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-- We used The IoniCons To Can Add Awsoeme Icons To Our Template
+--- We Use TheeJs Libraries To Can Provide The 3D Rendering To Our Web Site
+---- We Use SlideJs Library To Can Provide The Slide Template To Our Web Site
